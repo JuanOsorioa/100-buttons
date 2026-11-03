@@ -98,3 +98,52 @@
 .btn-full {
     width: 100%;
 }
+
+/* Button Styles Part 3 */
+.btn-uppercase {
+    text-transform: uppercase;
+}
+
+.btn-spaced {
+    letter-spacing: 2px;
+}
+
+.btn-bold {
+    font-weight: bold;
+}
+
+.btn-elegant {
+    font-family: Georgia, serif;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+.btn-underline {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+}
+
+.btn-shadow-soft {
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+.btn-shadow-strong {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.35);
+}
+
+.btn-shadow-color {
+    background-color: #1565C0;
+    color: #FFFFFF;
+    box-shadow: 0 4px 12px #1565C0;
+}
+
+.btn-relief {
+    box-shadow: 0 4px 0 #0D47A1, 0 6px 10px rgba(0, 0, 0, 0.25);
+}
+
+.btn-text-glow {
+    background-color: #111827;
+    color: #FFFFFF;
+    text-shadow: 0 0 5px #67E8F9, 0 0 10px #67E8F9;
+}
