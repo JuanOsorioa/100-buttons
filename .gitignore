@@ -1,0 +1,14 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editores y entornos de desarrollo
+.vscode/
+.idea/
+.sublime-workspace
+.sublime-project
+
+# Archivos temporales o de registros
+.log
+.tmp
