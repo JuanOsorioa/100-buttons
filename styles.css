@@ -1,3 +1,4 @@
+/* Button Styles Part 1 */
 .btn-primary {
     background-color: #1565C0;
     color: #FFFFFF;
@@ -48,4 +49,52 @@
 .btn-custom {
     background-color: #6D28D9;
     color: #FFFFFF;
+}
+
+.btn-outline {
+    background-color: transparent;
+    border: solid;
+    color: #1565C0;
+}
+
+/* Button Styles Part 2 */
+.btn-border-thick {
+    border: 4px solid #1565C0;
+}
+
+.btn-border-dashed {
+    border: 2px dashed #1565C0;
+}
+
+.btn-border-dotted {
+    border: 2px dotted #1565C0;
+}
+
+.btn-rounded {
+    border-radius: 8px;
+}
+
+.btn-pill {
+    border-radius: 50px;
+}
+
+.btn-circle {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    padding: 0;
+}
+
+.btn-small {
+    font-size: 12px;
+    padding: 5px 10px;
+}
+
+.btn-large {
+    font-size: 20px;
+    padding: 12px 24px;
+}
+
+.btn-full {
+    width: 100%;
 }
